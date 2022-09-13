@@ -139,7 +139,7 @@ body{font: normal 100% 'Helvetica', serif; color: black; background-color: #BCD4
       }
       
       .navi2button a {
-        font: normal 75% 'Times New Roman', serif;
+        font: normal 75% 'Helvetica', serif;
         float: center;
         width: 6em;
         padding: 0.2em 1em;
@@ -155,7 +155,7 @@ body{font: normal 100% 'Helvetica', serif; color: black; background-color: #BCD4
         border-color: white;
         color: rgb(0, 0, 0);
 		background-color: white;
-        font: normal 70% 'Times New Roman', serif;
+        font: normal 70% 'Helvetica', serif;
         font-weight: bold;
       }
 	  
@@ -168,7 +168,7 @@ body{font: normal 100% 'Helvetica', serif; color: black; background-color: #BCD4
       }
 	  
 	  .active2 a {
-	    font: normal 70% 'Times New Roman', serif;
+	    font: normal 70% 'Helvetica', serif;
         float: center;
         width: 6em;
         padding: 0.2em 1em;
@@ -185,7 +185,7 @@ body{font: normal 100% 'Helvetica', serif; color: black; background-color: #BCD4
         border-color: white;
         color: rgb(0, 0, 0);
 		background-color: white;
-        font: normal 70% 'Times New Roman', serif;
+        font: normal 70% 'Helvetica', serif;
         font-weight: bold;
 	  }
 	  
@@ -203,7 +203,7 @@ body{font: normal 100% 'Helvetica', serif; color: black; background-color: #BCD4
 	  }
 	  
 	  .contentalign {
-	    font: normal 100% 'Times New Roman', serif;
+	    font: normal 100% 'Helvetica', serif;
 	    margin-top: 30px;
 	    margin-left: 50px;
 		margin-right: 50px;
